@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 export const SignupForm = () =>{
     useEffect(() => {
-      document.title = "Amazon Clone "
+      document.title = "Amazon BY AJAY ADHIKARI(SRMS) "
     })
   }
